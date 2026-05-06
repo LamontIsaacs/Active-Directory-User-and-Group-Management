@@ -55,19 +55,23 @@ In this lab, I simulated a real-world IT environment by:
 ---
 
 ### 6. Group Creation
+
 ![Step6](screenshots/06-group-creation.png)
 
 ---
 
 ### 7. Users Assigned to IT Security Group
+
 ![Step7](screenshots/07-it-group-members.png)
 
 ---
 
 ### 8. Users Assigned to HR Security Group
+
 ![Step8](screenshots/08-hr-group-members.png)
 
 ---
 
 ### 9. Employees Group Members
+
 ![Step9](screenshots/09-employees-group-members.png)
