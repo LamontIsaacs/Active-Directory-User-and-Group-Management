@@ -1,3 +1,25 @@
+# Active Directory User & Group Management Lab
+
+## Overview
+This lab demonstrates hands-on experience with Active Directory user and group management within a Windows Server environment.
+
+## Objectives
+- Create and manage Organizational Units (OUs)
+- Create and manage user accounts
+- Create security groups (HR, IT, Employees)
+- Assign users to appropriate groups
+- Demonstrate access control structure
+
+## Tools Used
+- Windows Server 2025
+- Active Directory Users and Computers (ADUC)
+
+## Skills Demonstrated
+- User account management
+- Group policy fundamentals
+- Access control and permissions
+- Directory structure organization
+
 ## Screenshots
 
 ### 1. Active Directory Opened
